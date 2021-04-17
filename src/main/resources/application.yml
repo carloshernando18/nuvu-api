@@ -1,0 +1,8 @@
+server:
+  port: 8083
+  
+app:
+  jwtSecret: secretKey
+  jwtExpirationMs: 86400000
+  
+  
